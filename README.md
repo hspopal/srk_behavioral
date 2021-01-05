@@ -10,6 +10,8 @@
 [Blog](https://hspopal.github.io/srk_behavioral/study_3/)
 
 ## Study 4
+[Blog](https://hspopal.github.io/srk_behavioral/study_4/)
+
 
 ## Supplementary
 ### Study 3B
