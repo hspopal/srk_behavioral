@@ -15,4 +15,4 @@
 
 ## Supplementary
 ### Study 3B
-[Blog](https://hspopal.github.io/srk_behavioral/supplementary/study_3b/#Interactive_Relationship_Plots)
+[Blog](https://hspopal.github.io/srk_behavioral/supplementary/study_3b/)
